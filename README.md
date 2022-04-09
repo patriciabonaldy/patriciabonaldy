@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+😄 I'm a Backend developer with a bachelor's degree in informatic engineering.
+
+🔭 I’m currently working at MercadoLibre as a Golang Developer.
+
+💬 Feel free to contact me.
 <!--
 **patriciabonaldy/patriciabonaldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
