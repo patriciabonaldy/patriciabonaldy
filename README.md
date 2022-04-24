@@ -1,4 +1,4 @@
-### Hi there 👋
+<h5 align="left">Hi there! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h5>
 
 😄 I'm a Backend developer with a bachelor's degree in informatic engineering.
 
@@ -44,3 +44,14 @@ Here are some ideas to get you started:
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
                                                               
 </div>
+  
+  <h4>Version Control</h4>  
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
+
+
+<h4>Hosting/SaaS</h4>    
+   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic">
+
+ 
+
